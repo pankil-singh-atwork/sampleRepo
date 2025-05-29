@@ -1,1 +1,3 @@
 Hello I am learning git
+My name is Pankil Singh
+I am initerested in learning new technologies
